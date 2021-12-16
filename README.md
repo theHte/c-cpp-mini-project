@@ -83,3 +83,7 @@
 SR No   | Project | Description | Author  
 --- | --- | --- | --- | 
 1 | [Hello](https://github.com/Alex108-lab/c-cpp-mini-project/tree/master/projects/Hello) |This is a simple Hello World. | [Alexander Monterrosa](https://github.com/Alex108-lab)
+2 |
+[Simple_IO](https://github.com/Alex108-lab/c-cpp-mini-project/tree/master/projects/Simple_IO)
+| Simple input and output program. | [Alexander Monterrosa](https://github.com/Alex108-lab)
+

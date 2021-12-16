@@ -29,7 +29,7 @@ Steps on how to run the script along with suitable examples.
 ## Demo
 Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif).
 
-## 🤖 Author
+## Author
 <!--Remove the below lines and add yours -->
 The name of the author of the code goes here.
 If you have a web site or a Git user name, feel free to link.
